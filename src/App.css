@@ -40,6 +40,8 @@
 .testing {
   display: inline;
   background-color: lightskyblue;
+  height: min-content;
+  width: min-content;
   padding: 2px 5px;
   border-radius: 0.25em;
 }
